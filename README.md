@@ -22,7 +22,7 @@ CSDN博客地址：http://blog.csdn.net/u012318074/article/category/6744423
 
 该模块主要实现每天统计出各个区域的top3热门商品。然后使用Oozie进行离线统计任务的定时调度；使用Zeppeline进行数据可视化的报表展示。该模块可以让企业管理层看到公司售卖的商品的整体情况，从而对公司的商品相关的战略进行调整。主要使用Spark SQL实现。
 
-## 联系方式：
-LiuyangErik@gmail.com  
-
+# 联系方式：
 Erik_ly@163.com
+
+LiuyangErik@gmail.com  
