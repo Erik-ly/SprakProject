@@ -1641,26 +1641,3 @@ public class UserVisitSessionAnalyzeSpark {
 	
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
